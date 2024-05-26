@@ -1,0 +1,44 @@
+:root{
+  --cor-1:#2D727C;
+  --cor-2:#5FA2AC;
+  --cor-3:#62DFAB;
+  --cor-4:#252B2C;
+  --cor-5:#ffff;
+  --cor-6: #000000;
+}
+@font-face {
+  font-family: 'Humanist777';
+  src: url('/Tipografia/Humanist\ 777\ Black\ BT.ttf') format('opentype');
+}
+@font-face {
+  font-family: 'Humanisti521BT';
+  src:url('/Tipografia/Humanist521BT.ttf')format('opentype') ;
+}
+@font-face {
+  font-family: 'Humanisti521LBT';
+  src:url('/Tipografia/Humanist521LightBT.ttf') format('opentype');
+}
+@font-face {
+  font-family: 'Humanisti521Bold';
+  src:url('/Tipografia/Humanist521BoldBT.ttf')  format('opentype');
+}
+
+:root{
+  --font-black:"Humanist777";
+  --font-bt:"Humanisti521BT";
+  --font-bold:"Humanisti521Bold";
+  --font-lbt:"Humanisti521LBT";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
